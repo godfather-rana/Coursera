@@ -6,3 +6,4 @@ Here I have uploaded the assignments(in formats like .ipynb) of the ongoing cour
 
 ### Ongoing course:
 -> Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+-> Convolutional Neural Networks
